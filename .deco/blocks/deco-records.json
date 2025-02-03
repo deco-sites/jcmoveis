@@ -1,1 +1,9 @@
-{"__resolveType":"site/apps/deco/records.ts"}
+{
+  "__resolveType": "site/apps/deco/records.ts",
+  "url": "libsql://jcmoveis-decocx.turso.io",
+  "authToken": {
+    "__resolveType": "website/loaders/secret.ts",
+    "name": "DATABASE_AUTH_TOKEN",
+    "encrypted": "9ef15bf9bc78ae44214c3eaea6133896cb142ec8d8ce66898e1f02e2b59eaf563dbdb9533f47836f065809a103ab5c4d411078189c7c0116343b94e66ec3354d33cb8e7dd430b08de8c8c7191d8b6ff1879f1cd05135ce9a31a9acdc3a028e20625ae4a38e1787beae62c34e416842d891d656b0c62bb7a97b1a9f3ad6ab2f1b9d0597fe5db6108a333340b74091d690aa56493a0df6ee0832575b6d3a9b4ab8a7fd8f570b65ecc466a7baf36c943b328ae7ed51bbb0905035b6943f7c85611fbf6a768d1be1a41ab69d3e6fd5a0daf1b7b66999712585ae854511897042247a"
+  }
+}
